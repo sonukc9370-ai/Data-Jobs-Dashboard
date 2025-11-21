@@ -1,4 +1,4 @@
-# 📊 Data Job Market Analysis Dashboard (2024)
+# 📊 Data Jobs Dashboard (2024)
 
 [![Power BI](Images/images1.png)](https://app.powerbi.com/view?r=eyJrIjoiM2RiYTQwZjAtNzZkOS00YTM1LWI5ODktMmNjNWEwZGY2YjY1IiwidCI6IjA1ODJiNDQ5LTFhZWEtNGM1ZC05YTE0LTA5NGZlYmI4NGFmNiJ9)
 
@@ -14,15 +14,21 @@ The dashboard aims to help job seekers and recruiters understand the current lan
 
 ### 1. Executive Summary (Home Page)
 Provides a macro view of the market with KPIs, trend lines, and salary rankings.
-![Dashboard Home Page](./image_path_1.png) 
-*(Replace `image_path_1.png` with the actual filename of your first screenshot)*
+![Dashboard Home Page](Images./images1.png) 
 
 ### 2. Job Title Deep Dive (Drill Through)
 A detailed view focusing on specific metrics for a selected role (e.g., Data Analyst).
-![Drill Through Page](./image_path_2.png)
-*(Replace `image_path_2.png` with the actual filename of your second screenshot)*
+![Drill Through Page](Images/images2.png)
 
+
+## 🛠️ Tech Stack & Process
+
+* **Tool:** Microsoft Power BI
+* **Data Transformation:** Power Query (ETL)
+* **Calculations:** DAX (Data Analysis Expressions) for measures like Median Salary, Job Counts, and ratios.
+* **Visualization:** Custom gauge charts, scatter plots, and map visuals.
 ---
+
 
 ## 🌟 Key Features & Interactivity
 
@@ -55,12 +61,7 @@ Based on the data visualized in this dashboard:
 
 ---
 
-## 🛠️ Tech Stack & Process
 
-* **Tool:** Microsoft Power BI
-* **Data Transformation:** Power Query (ETL)
-* **Calculations:** DAX (Data Analysis Expressions) for measures like Median Salary, Job Counts, and ratios.
-* **Visualization:** Custom gauge charts, scatter plots, and map visuals.
 
 ---
 
