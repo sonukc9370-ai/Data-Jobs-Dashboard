@@ -1,6 +1,6 @@
 # 📊 Data Job Market Analysis Dashboard (2024)
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power BI]([https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black](https://app.powerbi.com/view?r=eyJrIjoiM2RiYTQwZjAtNzZkOS00YTM1LWI5ODktMmNjNWEwZGY2YjY1IiwidCI6IjA1ODJiNDQ5LTFhZWEtNGM1ZC05YTE0LTA5NGZlYmI4NGFmNiJ9))
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-005C84?style=for-the-badge)
 
 ## 📖 Project Overview
