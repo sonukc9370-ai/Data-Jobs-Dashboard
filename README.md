@@ -62,9 +62,6 @@ Based on the data visualized in this dashboard:
 ---
 
 
-
----
-
 ## 🚀 How to Use This File
 
 1.  Download the `.pbix` file from this repository.
@@ -74,8 +71,3 @@ Based on the data visualized in this dashboard:
 
 ---
 
-## 📬 Contact
-
-Feel free to reach out if you have any questions about the dashboard or the data modeling behind it!
-
-[Your Name/LinkedIn Profile Link]
