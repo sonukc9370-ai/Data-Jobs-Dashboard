@@ -14,7 +14,7 @@ The dashboard aims to help job seekers and recruiters understand the current lan
 
 ### 1. Executive Summary (Home Page)
 Provides a macro view of the market with KPIs, trend lines, and salary rankings.
-![Dashboard Home Page](Images./images1.png) 
+![Dashboard Home Page](Images/images1.png) 
 
 ### 2. Job Title Deep Dive (Drill Through)
 A detailed view focusing on specific metrics for a selected role (e.g., Data Analyst).
